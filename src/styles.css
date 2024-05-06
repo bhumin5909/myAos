@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&family=Revalia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&family=Schibsted+Grotesk:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+
+.backColor1 {
+  background-color: #001825;
+}
